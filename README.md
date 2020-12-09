@@ -1,13 +1,15 @@
 # nodeunblocker.com
 
-Evade internet censorship!
+EVADE YOUR SCHOOL'S FIRE WALL :O (also internet censorship)!
 
-The original nodeunblocker.com is now gone, but it's now easier than ever to deploy your own copy.
+A live version is here:[Link](https://nofirewall.herokuapp.com/)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nfriedly/nodeunblocker.com)
-[![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/nfriedly/nodeunblocker.com)
+The original nodeunblocker.com is now gone, but it's now easier than ever to deploy your own copy _without google ads_.
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idcforthis/noschoolfirewall/)
+[![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/idcforthis/noschoolfirewall/)
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
-[![Deploy to AWS](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/nfriedly/nodeunblocker.com)
+[![Deploy to AWS](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/idcforthis/noschoolfirewall/)
 
 
 ## Running the website on your computer
@@ -31,7 +33,7 @@ This project should be runnable without modification on a free [Heroku](http://w
 
 # About the project
 
-The the core of the nodeunblocker.com has been extracted into a [standalone library](https://github.com/nfriedly/node-unblocker) to make it more flexible, but everything you need to run the website is right here.
+A No ads Version of the core of Node Unblocker [standalone library](https://github.com/nfriedly/node-unblocker) to make it more flexible, everything you need to run the website is right here.
 
 This project is released under the terms of the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.html).
 
