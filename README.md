@@ -37,4 +37,4 @@ A No ads Version of the core of Node Unblocker [standalone library](https://gith
 
 This project is released under the terms of the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.html).
 
-All source code is copyright [Nathan Friedly](http://nfriedly.com/).
+Also source code is copyright to [Nathan Friedly](http://nfriedly.com/).
