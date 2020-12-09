@@ -55,7 +55,7 @@ function googleAnalyticsMiddleware(data) {
 var unblockerConfig = {
     prefix: '/sockItSchol/',
     responseMiddleware: [
-        googleAnalyticsMiddleware
+        
     ]
 };
 
