@@ -2,7 +2,7 @@
 
 EVADE YOUR SCHOOL'S FIRE WALL :O (also internet censorship)!
 
-A live version is here:[Link](https://nofirewall.herokuapp.com/)
+A live version is here: [Da wae(the link)](https://nofirewall.herokuapp.com/)
 
 The original nodeunblocker.com is now gone, but it's now easier than ever to deploy your own copy _without google ads_.
 
