@@ -1,10 +1,10 @@
 {
-  "name": "nodeunblocker.com",
+  "name": "NoSchoolFirewall",
   "description": "Web proxy for evading internet censorship",
-  "author": "Nathan Friedly - http://nfriedly.com",
+  "author": "idcforthis",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/nfriedly/nodeunblocker.com/",
+  "homepage": "https://github.com/idcforthis/noschoolfirewall/",
   "dependencies": {
     "express": "^4.13.0",
     "gatling": "~1.2.0",
